@@ -67,7 +67,7 @@
 
 ![슬라이드27](https://user-images.githubusercontent.com/68325847/118026968-6377d580-b39c-11eb-805c-4cdaa779e049.PNG)
 
-https://user-images.githubusercontent.com/68325847/118027197-a043cc80-b39c-11eb-9b09-a9f8ecb90632.mp4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7-ph_jT6oeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 https://user-images.githubusercontent.com/68325847/118027681-28c26d00-b39d-11eb-8399-4e0f7b88b16a.mp4
 
