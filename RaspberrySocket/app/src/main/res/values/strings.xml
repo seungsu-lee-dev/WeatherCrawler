@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RaspberrySocket</string>
+    <string
+        name="message_rule"><![CDATA[message 규칙(\' \'는 제외하고 입력) \n지금 당장 오늘의 날씨 메일을 받고 싶다 \n->\'날씨\'라고 입력 \n메일 발송 시간을 추가하고 싶다 \n->\'07:00\'처럼 \'시간:분\'의 형태로 입력 \n메일 발송 시간을 삭제하고 싶다 \n->\'시간:분\'의 형태로 다시 입력한다. \n추가한 시간을 보고 싶다 \n->\'시간\'이라고 입력 \n날씨를 알고 싶은 지역을 변경하고 싶다 \n->\'안동 송천동\'처럼 \'OO OO동\'의 형태로 입력]]></string>
+</resources>
