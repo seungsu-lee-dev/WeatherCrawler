@@ -1,9 +1,9 @@
 # WeatherCrawler
 프로젝트명 : 라즈베리파이를 이용한 날씨알리미 크롤링 프로젝트
 
-사용언어 : Python, Java
+사용 언어 : Python, Java
 
-사용 프로그램 : Python IDLE, Android Studio
+사용 IDE : Python IDLE, Android Studio
 
 서버 : 라즈베리파이(Python), 클라이언트 : 스마트폰(Android App)
 
